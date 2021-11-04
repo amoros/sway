@@ -1,0 +1,2 @@
+# sway
+SwayVM Config
